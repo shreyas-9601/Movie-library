@@ -19,11 +19,28 @@ Before you begin, ensure you have the following installed:
 ### Local Setup
 
 1. **Clone the repository**
+    ```bash
     git clone https://github.com/shreyas-9601/Movie-library.git
     cd Movie-library
+    ```
 
 2. **Install dependencies**
+    ```bash
     npm install
+    ```
 
 3. **Run the app**
+    ```bash
     npm start
+    ```
+
+## Live Demo
+
+- [Live Application](https://warm-paletas-fdfdbd.netlify.app/)
+- [Source Code](https://github.com/shreyas-9601/Movie-library)
+
+## Usage
+
+1. **Search for movies**: Enter a movie name in the search box to fetch movies from the OMDB API.
+2. **Add to favourites**: Click on a movie to add it to your favourites list.
+3. **Remove from favourites**: Click on a favourite movie to remove it from the list.
