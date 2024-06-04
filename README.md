@@ -36,7 +36,7 @@ Before you begin, ensure you have the following installed:
 
 ## Live Demo
 
-- [Live Application](https://warm-paletas-fdfdbd.netlify.app/)
+- [Live Application](https://movie-library-react-app.netlify.app/)
 - [Source Code](https://github.com/shreyas-9601/Movie-library)
 
 ## Usage
